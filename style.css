@@ -1,0 +1,222 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    width: 90px;
+    line-height: 50px;
+}
+.sidebar{
+   background-color: black; 
+   color: white;
+   width:499px;
+   height: 1007px;
+   padding-left: 9px;
+   margin-left: 0;
+
+
+}
+.main{
+    background-color: #212121;
+    width: 1259px;
+    margin-right: 0;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    background-size: contain;
+
+}
+
+img .spotifyLogo{
+    display: inline;
+    width: min-content;
+   width: 136;
+   height: 90px; 
+}
+
+span{
+    width: 10px;
+    size: 10px;
+
+}
+.first{
+    display: inline;
+}
+.gm{
+    color: white;
+    font-size: 40px;
+    padding-left: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.arrow{
+    height: 200px;
+    width: 2px;
+    box-sizing: border-box;
+
+}
+.img1{
+    background-color: #303030;
+    color: white;
+    font-size: 20px;
+    width: 300px;
+    display:  inline-block;
+    border-radius: 10px;
+    height: 140px;
+    margin-left: 10px;
+    /* width: 500px;
+    height: 100px;
+    padding: 10px ; */
+}
+
+.heartbg{
+    z-index: 2;
+    margin-left: 30px;
+    margin-top: 30px;
+    
+}
+.heart{
+    position: relative;
+    margin-left:4px;
+
+}
+.img2{
+    background-color: #303030;
+    color: white;
+    font-size: 20px;
+    width: 300px;
+    height: 140px;
+    border-radius: 10px;
+    
+
+}
+.img3{
+    background-color: #303030;
+    color: white;
+    font-size: 20px;
+    width: 300px;
+    height: 140px;
+    border-radius: 10px;
+}
+.img4{
+    background-color: #303030;
+    color: white;
+    font-size: 20px;
+    width: 300px;
+    height: 140px;
+    border-radius: 10px;
+    margin-right: 5px;
+}
+.img5{
+    background-color: #303030;
+    color: white;
+    font-size: 20px;
+    width: 500px;
+    height: 140px;
+    margin-top: 170px;
+    margin-right: 5px;
+    border-radius: 10px;
+}
+
+.main2{
+    
+display: flex;
+justify-content: space-between;
+
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.pd{
+    color: white;
+    font-size: 25px;
+    margin-left: 10px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: inline;
+}
+.img11{
+    color: white;
+    font-size: 25px;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.img12{
+    color: white;
+    font-size: 25px;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+.img13{
+    color: white;
+    font-size: 25px;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
+}
+.img14{
+    color: white;
+    font-size: 25px;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
+}
+.img15{
+    color: white;
+    font-size: 25px;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.img16{
+    color: white;
+    font-size: 25px;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.main3{
+    display: flex;
+    justify-content: space-around;
+     margin-left: 15px;
+}
+footer{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    color: white;
+    margin-bottom: 0;
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+}
+.On2{
+    width: 100px;
+}
+.heart2{
+    width: 30px;
+}
+.play2{
+    width: 500px;
+    background-color: black;
+    padding-top: 25px;
+}
+.login2{
+    background-color: black;
+    width: 300px;
+    padding-top: 25px;
+}
+.T-arrow{
+    width: 100px;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+.main2{
+    margin-top: 20px;
+}
